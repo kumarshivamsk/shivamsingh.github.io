@@ -1,10 +1,11 @@
-/* General Styles */
 body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+    background: linear-gradient(to bottom, #85c1e9, #2e86c1); /* Light blue to deep blue */
+    color: white; /* Ensure text is readable on a colored background */
+    font-family: Arial, sans-serif; /* Optional: Use a clean font */
+    margin: 0; /* Remove default margin */
+    padding: 0; /* Remove default padding */
 }
+
 
 .container {
     width: 90%;
